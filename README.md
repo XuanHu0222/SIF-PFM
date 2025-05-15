@@ -11,14 +11,14 @@ The latest FEniCSx version (FEniCSx 0.9) is required to run the ipynb files. To 
 
 The weak form governing equation for displacement field writes
 
-$$\delta\Pi_u=\int_\Omega\left[H(\phi-\phi_{cr})+k\right]\sigma_{ij}\delta\epsilon_{ij}\,\mathrm{d}\Omega~,$$
+$$\delta\Pi_u=\int_\Omega\left[H(\phi-\phi_{cr})+k\right]\sigma_{ij}\delta\epsilon_{ij}~\mathrm{d}\Omega~,$$
 
 where $H(\bullet)$ stands for Heaviside step function, $\phi$ is the cracking phase-field, $\phi_{cr}, k$ are parameters in cracking phase-field, and $\sigma_{ij}, \epsilon_{ij}$ denote the stress and strain, respectively.
 
 The weak form governing equation for cracking phase-field wirtes
 
 $$\delta\Pi_\phi=\int_\Omega \frac{\pi \langle\sigma_{\theta\theta}\rangle_+^2}{E'}(\phi-2)\delta\phi +  
-G_c\left[l_0\frac{\partial\phi}{\partial x_i} \frac{\partial\phi}{\partial x_i}+\frac{1}{l_0}\phi\delta\phi\right]\,\mathrm{d}\Omega$$
+G_c\left[l_0\frac{\partial\phi}{\partial x_i} \frac{\partial\phi}{\partial x_i}+\frac{1}{l_0}\phi\delta\phi\right]~\mathrm{d}\Omega$$
 
 where $\langle\bullet\rangle _+$ represents Macaulay brackets, $E':=E$ in plane stress cases and $E':=E/(1-\nu^2)$ in plane strain and 3D cases, $\sigma_{\theta\theta}$ denotes the circumferential stress, and $l_0$ is another parameter in cracking phase-field.
 
@@ -32,7 +32,8 @@ The source code for this example is 'SIF-mode1.ipynb', and the corresponding res
 
 The bearing capacity and critical stress intensity factor obtained by the proposed formulation is closer to the analytical values, compared with conventional SED-driven formulation, as shown below.
 
-![mode1_curve](./pics/mode1_curve.png)
+<!-- ![mode1_curve](./pics/mode1_curve.png) -->
+<img src="./pics/mode1_curve.png" alt="mode1_curve" width="300" />
 
 ### Example 2: A plate with an edge notch subjected to mode II loading
 
@@ -42,7 +43,8 @@ The source code for this example is 'SIF-mode2.ipynb', and the corresponding res
 
 In addition, the overall response predicted by the propose formulation is more accurate.
 
-![mode2_curve](./pics/mode2_curve.png)
+<!-- ![mode2_curve](./pics/mode2_curve.png) -->
+<img src="./pics/mode2_curve.png" alt="mode2_curve" width="300" />
 
 ### Example 3: Gypsum specimen with center flaw
 
