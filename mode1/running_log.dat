@@ -1,0 +1,2438 @@
+Running...    1/  600
+    Newton-Raphson iteration     1, err: 6.506e-04
+    Newton-Raphson iteration     2, err: 9.187e-09
+    Newton-Raphson iteration converged.
+Running...    2/  600
+    Newton-Raphson iteration     1, err: 3.203e-04
+    Newton-Raphson iteration     2, err: 3.012e-09
+    Newton-Raphson iteration converged.
+Running...    3/  600
+    Newton-Raphson iteration     1, err: 3.203e-04
+    Newton-Raphson iteration     2, err: 3.012e-09
+    Newton-Raphson iteration converged.
+Running...    4/  600
+    Newton-Raphson iteration     1, err: 3.203e-04
+    Newton-Raphson iteration     2, err: 3.012e-09
+    Newton-Raphson iteration converged.
+Running...    5/  600
+    Newton-Raphson iteration     1, err: 3.203e-04
+    Newton-Raphson iteration     2, err: 3.012e-09
+    Newton-Raphson iteration converged.
+Running...    6/  600
+    Newton-Raphson iteration     1, err: 3.203e-04
+    Newton-Raphson iteration     2, err: 3.012e-09
+    Newton-Raphson iteration converged.
+Running...    7/  600
+    Newton-Raphson iteration     1, err: 3.203e-04
+    Newton-Raphson iteration     2, err: 3.012e-09
+    Newton-Raphson iteration converged.
+Running...    8/  600
+    Newton-Raphson iteration     1, err: 3.203e-04
+    Newton-Raphson iteration     2, err: 3.012e-09
+    Newton-Raphson iteration converged.
+Running...    9/  600
+    Newton-Raphson iteration     1, err: 1.284e-03
+    Newton-Raphson iteration     2, err: 5.232e-07
+    Newton-Raphson iteration     3, err: 6.499e-12
+    Newton-Raphson iteration converged.
+Running...   10/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   11/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   12/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   13/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   14/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   15/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   16/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   17/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   18/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   19/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   20/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   21/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   22/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   23/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   24/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   25/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   26/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   27/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   28/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   29/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   30/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   31/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   32/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   33/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   34/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   35/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   36/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   37/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   38/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   39/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   40/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   41/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   42/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   43/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   44/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   45/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   46/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   47/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   48/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   49/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   50/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   51/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   52/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   53/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   54/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   55/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   56/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   57/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   58/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   59/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   60/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   61/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   62/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   63/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   64/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   65/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   66/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   67/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   68/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   69/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   70/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   71/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   72/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   73/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   74/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   75/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   76/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   77/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   78/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   79/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   80/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   81/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   82/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   83/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   84/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   85/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   86/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   87/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   88/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   89/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   90/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   91/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   92/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   93/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   94/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   95/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   96/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   97/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   98/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...   99/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  100/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  101/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  102/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  103/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  104/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  105/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  106/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  107/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  108/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  109/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  110/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  111/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  112/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  113/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  114/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  115/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  116/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  117/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  118/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  119/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  120/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  121/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  122/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  123/  600
+    Newton-Raphson iteration     1, err: 3.201e-04
+    Newton-Raphson iteration     2, err: 3.007e-09
+    Newton-Raphson iteration converged.
+Running...  124/  600
+    Newton-Raphson iteration     1, err: 5.203e-02
+    Newton-Raphson iteration     2, err: 2.359e-05
+    Newton-Raphson iteration     3, err: 1.952e-10
+    Newton-Raphson iteration converged.
+Running...  125/  600
+    Newton-Raphson iteration     1, err: 3.197e-04
+    Newton-Raphson iteration     2, err: 2.999e-09
+    Newton-Raphson iteration converged.
+Running...  126/  600
+    Newton-Raphson iteration     1, err: 3.197e-04
+    Newton-Raphson iteration     2, err: 2.999e-09
+    Newton-Raphson iteration converged.
+Running...  127/  600
+    Newton-Raphson iteration     1, err: 3.197e-04
+    Newton-Raphson iteration     2, err: 2.999e-09
+    Newton-Raphson iteration converged.
+Running...  128/  600
+    Newton-Raphson iteration     1, err: 3.197e-04
+    Newton-Raphson iteration     2, err: 2.999e-09
+    Newton-Raphson iteration converged.
+Running...  129/  600
+    Newton-Raphson iteration     1, err: 3.197e-04
+    Newton-Raphson iteration     2, err: 2.999e-09
+    Newton-Raphson iteration converged.
+Running...  130/  600
+    Newton-Raphson iteration     1, err: 3.197e-04
+    Newton-Raphson iteration     2, err: 2.999e-09
+    Newton-Raphson iteration converged.
+Running...  131/  600
+    Newton-Raphson iteration     1, err: 3.197e-04
+    Newton-Raphson iteration     2, err: 2.999e-09
+    Newton-Raphson iteration converged.
+Running...  132/  600
+    Newton-Raphson iteration     1, err: 3.197e-04
+    Newton-Raphson iteration     2, err: 2.999e-09
+    Newton-Raphson iteration converged.
+Running...  133/  600
+    Newton-Raphson iteration     1, err: 3.197e-04
+    Newton-Raphson iteration     2, err: 2.999e-09
+    Newton-Raphson iteration converged.
+Running...  134/  600
+    Newton-Raphson iteration     1, err: 3.009e-01
+    Newton-Raphson iteration     2, err: 1.021e-04
+    Newton-Raphson iteration     3, err: 5.058e-02
+    Newton-Raphson iteration     4, err: 2.813e-05
+    Newton-Raphson iteration     5, err: 2.286e-10
+    Newton-Raphson iteration converged.
+Running...  135/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  136/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  137/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  138/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  139/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  140/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  141/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  142/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  143/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  144/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  145/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  146/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  147/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  148/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  149/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  150/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  151/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  152/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  153/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  154/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  155/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  156/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  157/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  158/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  159/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  160/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  161/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  162/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  163/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  164/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  165/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  166/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  167/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  168/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  169/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  170/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  171/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  172/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  173/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  174/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  175/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  176/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  177/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  178/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  179/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  180/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  181/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  182/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  183/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  184/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  185/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  186/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  187/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  188/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  189/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  190/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  191/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  192/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  193/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  194/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  195/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  196/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  197/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  198/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  199/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  200/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  201/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  202/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  203/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  204/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  205/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  206/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  207/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  208/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  209/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  210/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  211/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  212/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  213/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  214/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  215/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  216/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  217/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  218/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  219/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  220/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  221/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  222/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  223/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  224/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  225/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  226/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  227/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  228/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  229/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  230/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  231/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  232/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  233/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  234/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  235/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  236/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  237/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  238/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  239/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  240/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  241/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  242/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  243/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  244/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  245/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  246/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  247/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  248/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  249/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  250/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  251/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  252/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  253/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  254/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  255/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  256/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  257/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  258/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  259/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  260/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  261/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  262/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  263/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  264/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  265/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  266/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  267/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  268/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  269/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  270/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  271/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  272/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  273/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  274/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  275/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  276/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  277/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  278/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  279/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  280/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  281/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  282/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  283/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  284/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  285/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  286/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  287/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  288/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  289/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  290/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  291/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  292/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  293/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  294/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  295/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  296/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  297/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  298/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  299/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  300/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  301/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  302/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  303/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  304/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  305/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  306/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  307/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  308/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  309/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  310/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  311/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  312/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  313/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  314/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  315/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  316/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  317/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  318/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  319/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  320/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  321/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  322/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  323/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  324/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  325/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  326/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  327/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  328/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  329/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  330/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  331/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  332/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  333/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  334/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  335/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  336/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  337/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  338/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  339/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  340/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  341/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  342/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  343/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  344/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  345/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  346/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  347/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  348/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  349/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  350/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  351/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  352/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  353/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  354/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  355/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  356/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  357/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  358/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  359/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  360/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  361/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  362/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  363/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  364/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  365/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  366/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  367/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  368/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  369/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  370/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  371/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  372/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  373/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  374/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  375/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  376/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  377/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  378/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  379/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  380/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  381/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  382/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  383/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  384/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  385/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  386/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  387/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  388/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  389/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  390/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  391/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  392/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  393/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  394/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  395/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  396/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  397/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  398/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  399/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  400/  600
+    Newton-Raphson iteration     1, err: 3.195e-04
+    Newton-Raphson iteration     2, err: 2.968e-09
+    Newton-Raphson iteration converged.
+Running...  401/  600
+    Newton-Raphson iteration     1, err: 5.848e-01
+    Newton-Raphson iteration     2, err: 5.343e-01
+    Newton-Raphson iteration     3, err: 9.972e-01
+    Newton-Raphson iteration     4, err: 1.069e+00
+    Newton-Raphson iteration     5, err: 1.513e+00
+    Newton-Raphson iteration     6, err: 5.413e-01
+    Newton-Raphson iteration     7, err: 1.464e+00
+    Newton-Raphson iteration     8, err: 5.257e-01
+    Newton-Raphson iteration     9, err: 1.429e+00
+    Newton-Raphson iteration    10, err: 5.280e-01
+    Newton-Raphson iteration    11, err: 1.411e+00
+    Newton-Raphson iteration    12, err: 1.154e+00
+    Newton-Raphson iteration    13, err: 1.540e+00
+    Newton-Raphson iteration    14, err: 5.120e-01
+    Newton-Raphson iteration    15, err: 1.052e+00
+    Newton-Raphson iteration    16, err: 1.208e+00
+    Newton-Raphson iteration    17, err: 8.761e-01
+    Newton-Raphson iteration    18, err: 7.436e-01
+    Newton-Raphson iteration    19, err: 9.118e-01
+    Newton-Raphson iteration    20, err: 8.655e-01
+    Newton-Raphson iteration    21, err: 6.912e-01
+    Newton-Raphson iteration    22, err: 4.556e-01
+    Newton-Raphson iteration    23, err: 7.750e-01
+    Newton-Raphson iteration    24, err: 8.245e-01
+    Newton-Raphson iteration    25, err: 4.687e-01
+    Newton-Raphson iteration    26, err: 6.387e-01
+    Newton-Raphson iteration    27, err: 7.565e-02
+    Newton-Raphson iteration    28, err: 5.893e-05
+    Newton-Raphson iteration    29, err: 7.521e-01
+    Newton-Raphson iteration    30, err: 4.731e-04
+    Newton-Raphson iteration    31, err: 7.150e-09
+    Newton-Raphson iteration converged.
+Running...  402/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  403/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  404/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  405/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  406/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  407/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  408/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  409/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  410/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  411/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  412/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  413/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  414/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  415/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  416/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  417/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  418/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  419/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  420/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  421/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  422/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  423/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  424/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  425/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  426/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  427/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  428/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  429/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  430/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  431/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  432/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  433/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  434/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  435/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  436/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  437/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  438/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  439/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  440/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  441/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  442/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  443/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  444/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  445/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  446/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  447/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  448/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  449/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  450/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  451/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  452/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  453/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  454/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  455/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  456/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  457/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  458/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  459/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  460/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  461/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  462/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  463/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  464/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  465/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  466/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  467/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  468/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  469/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  470/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  471/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  472/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  473/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  474/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  475/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  476/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  477/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  478/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  479/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  480/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  481/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  482/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  483/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  484/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  485/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  486/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  487/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  488/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  489/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  490/  600
+    Newton-Raphson iteration     1, err: 2.788e-04
+    Newton-Raphson iteration     2, err: 3.020e-09
+    Newton-Raphson iteration converged.
+Running...  491/  600
+    Newton-Raphson iteration     1, err: 1.893e+01
+    Newton-Raphson iteration     2, err: 9.256e+00
+    Newton-Raphson iteration     3, err: 1.181e+01
+    Newton-Raphson iteration     4, err: 9.317e-01
+    Newton-Raphson iteration     5, err: 5.263e-04
+    Newton-Raphson iteration     6, err: 4.416e-09
+    Newton-Raphson iteration converged.
+Running...  492/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  493/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  494/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  495/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  496/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  497/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  498/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  499/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  500/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  501/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  502/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  503/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  504/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  505/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  506/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  507/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  508/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  509/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  510/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  511/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  512/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  513/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  514/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  515/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  516/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  517/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  518/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  519/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  520/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  521/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  522/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  523/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  524/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  525/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  526/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  527/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  528/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  529/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  530/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  531/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  532/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  533/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  534/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  535/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  536/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  537/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  538/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  539/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  540/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  541/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  542/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  543/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  544/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  545/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  546/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  547/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  548/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  549/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  550/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  551/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  552/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  553/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  554/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  555/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  556/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  557/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  558/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  559/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  560/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  561/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  562/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  563/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  564/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  565/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  566/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  567/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  568/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  569/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  570/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  571/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  572/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  573/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  574/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  575/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  576/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  577/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  578/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  579/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  580/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  581/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  582/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  583/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  584/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  585/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  586/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  587/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  588/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  589/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  590/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  591/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  592/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  593/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  594/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  595/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
+Running...  596/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  597/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  598/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  599/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.883e-09
+    Newton-Raphson iteration converged.
+Running...  600/  600
+    Newton-Raphson iteration     1, err: 2.739e-04
+    Newton-Raphson iteration     2, err: 2.884e-09
+    Newton-Raphson iteration converged.
