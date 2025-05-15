@@ -20,7 +20,7 @@ The weak form governing equation for cracking phase-field wirtes
 $$\delta\Pi_\phi=\int_\Omega \frac{\pi \langle\sigma_{\theta\theta}\rangle_+^2}{E'}(\phi-2)\delta\phi +  
 G_c\left[l_0\frac{\partial\phi}{\partial x_i} \frac{\partial\phi}{\partial x_i}+\frac{1}{l_0}\phi\delta\phi\right]~\mathrm{d}\Omega$$
 
-where $\langle\bullet\rangle _+$ represents Macaulay brackets, $E':=E$ in plane stress cases and $E':=E/(1-\nu^2)$ in plane strain and 3D cases, $\sigma_{\theta\theta}$ denotes the circumferential stress, and $l_0$ is another parameter in cracking phase-field.
+where ${\langle\bullet\rangle}_+$ represents Macaulay brackets, $E':=E$ in plane stress cases and $E':=E/(1-\nu^2)$ in plane strain and 3D cases, $\sigma_{\theta\theta}$ denotes the circumferential stress, and $l_0$ is another parameter in cracking phase-field.
 
 ## Examples
 
