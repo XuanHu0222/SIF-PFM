@@ -5,7 +5,8 @@
 
 ## Installation
 
-The latest FEniCSx version (FEniCSx 0.9) is required to run the ipynb files. To install FEniCSx correctly, please refer to [this page](https://fenicsproject.org/download/).
+The latest FEniCSx version (FEniCSx 0.9) is required to run the ipynb files. To install FEniCSx correctly, please refer to <a href="https://fenicsproject.org/download/" target="_blank">this page</a>.
+<!-- [this page](https://fenicsproject.org/download/). -->
 
 ## Governing Equation
 
@@ -17,8 +18,9 @@ where $H(\bullet)$ stands for Heaviside step function, $\phi$ is the cracking ph
 
 The weak form governing equation for cracking phase-field wirtes
 
-$$\delta\Pi_\phi=\int_\Omega \frac{\pi \langle\sigma_{\theta\theta}\rangle_+^2}{E'}(\phi-2)\delta\phi +  
+$$\delta\Pi_\phi=\int_\Omega \frac{\pi \langle \sigma_{\theta\theta}\rangle_+^2}{E'}(\phi-2)\delta\phi +  
 G_c\left[l_0\frac{\partial\phi}{\partial x_i} \frac{\partial\phi}{\partial x_i}+\frac{1}{l_0}\phi\delta\phi\right]~\mathrm{d}\Omega$$
+
 
 where ${\langle\bullet\rangle}_+$ represents Macaulay brackets, $E':=E$ in plane stress cases and $E':=E/(1-\nu^2)$ in plane strain and 3D cases, $\sigma_{\theta\theta}$ denotes the circumferential stress, and $l_0$ is another parameter in cracking phase-field.
 
@@ -56,4 +58,5 @@ The source code for this example is 'SIF-gypsum.ipynb', and the corresponding re
 # Code Availability and Licensing
 The source code developed for this study will be made publicly available and distributed under the terms of the MIT License, which permits reuse, modification, and distribution. We encourage researchers to use and build upon this code for their own work. If you do so, we kindly ask that you acknowledge this contribution by citing our paper.
 
-[Xuan Hu, Shaofan Li, A stress-intensity-factor-driven phase field modeling of mixed mode fracture. Computer Methods in Applied Mechanics and Engineering 443 (2025): 118058](https://doi.org/10.1016/j.cma.2025.118058)
+<a href="https://doi.org/10.1016/j.cma.2025.118058" target="_blank">Xuan Hu, Shaofan Li, A stress-intensity-factor-driven phase field modeling of mixed mode fracture. Computer Methods in Applied Mechanics and Engineering 443 (2025): 118058</a>
+<!-- [Xuan Hu, Shaofan Li, A stress-intensity-factor-driven phase field modeling of mixed mode fracture. Computer Methods in Applied Mechanics and Engineering 443 (2025): 118058](https://doi.org/10.1016/j.cma.2025.118058) -->
